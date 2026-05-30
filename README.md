@@ -44,5 +44,5 @@ Sample Superstore Dataset
 
 ## Author
 
-Leelavallika
+Leela Vallika
 Future Interns Data Science & Analytics Internship
